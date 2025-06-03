@@ -6,6 +6,7 @@ Goal:
 
 Instructions:
 Fellows should:
+
     Create a Label widget with text (e.g., “Hover over me!”).
 
     Use .bind("<Enter>", ...) to change the text color when the mouse pointer enters the label area.
@@ -16,6 +17,7 @@ Fellows should:
 
 
 Additional Challenges (Time permitting):
+
     - Toggle between two background colors on each click.
 
     - Display the current mouse coordinates using event.x and event.y.
